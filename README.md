@@ -18,13 +18,15 @@ The HR sample database has seven tables:
 
 ### 1. Superstores Database
 The databse is all about sales transactions of a superstore. It has five tables maintaing records respectively. 
+
 The tables are as follows :
-	1. cust_dimen: Details of all the customers
-			Customer_Name (TEXT): Name of the customer
-			Province (TEXT): Province of the customer
-			Region (TEXT): Region of the customer
-			Customer_Segment (TEXT): Segment of the customer
-			Cust_id (TEXT): Unique Customer ID
+
+    1. cust_dimen: Details of all the customers
+	Customer_Name (TEXT): Name of the customer
+	Province (TEXT): Province of the customer
+	Region (TEXT): Region of the customer
+	Customer_Segment (TEXT): Segment of the customer
+	Cust_id (TEXT): Unique Customer ID
 	
     2. market_fact: Details of every order item sold
         Ord_id (TEXT): Order ID
