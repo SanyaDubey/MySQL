@@ -41,18 +41,18 @@ The tables are as follows :
         Product_Base_Margin (DOUBLE): Product Base Margin on the Item sold
         
     3. orders_dimen: Details of every order placed
-			Order_ID (INT): Order ID
-			Order_Date (TEXT): Order Date
-			Order_Priority (TEXT): Priority of the Order
-			Ord_id (TEXT): Unique Order ID
+	Order_ID (INT): Order ID
+	Order_Date (TEXT): Order Date
+	Order_Priority (TEXT): Priority of the Order
+	Ord_id (TEXT): Unique Order ID
 	
     4. prod_dimen: Details of product category and sub category
-			Product_Category (TEXT): Product Category
-			Product_Sub_Category (TEXT): Product Sub Category
-			Prod_id (TEXT): Unique Product ID
+	Product_Category (TEXT): Product Category
+	Product_Sub_Category (TEXT): Product Sub Category
+	Prod_id (TEXT): Unique Product ID
 	
     5. shipping_dimen: Details of shipping of orders
-			Order_ID (INT): Order ID
-			Ship_Mode (TEXT): Shipping Mode
-			Ship_Date (TEXT): Shipping Date
-			Ship_id (TEXT): Unique Shipment ID
+	Order_ID (INT): Order ID
+	Ship_Mode (TEXT): Shipping Mode
+	Ship_Date (TEXT): Shipping Date
+	Ship_id (TEXT): Unique Shipment ID
